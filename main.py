@@ -32,7 +32,7 @@ def main():
         elif opcion == "2":
             ver_tareas()
         elif opcion == "3":
-            print("¡Hasta luego!")
+            print("Saliendo de la app")
             break
         else:
             print("Opción inválida, intenta de nuevo.")
